@@ -18,7 +18,7 @@ Una vez tengas todo instalado y listo para usar, no olvides modificar las rutas 
 
 # Paso número 4:
 ### Prueba el programa.
-En este paso ya deberías poder correr el programa sin problemas. Para probar el script, puedes usar las imágenes del directorio img_prueba o utilizar algunas propias.
+En este paso ya deberías poder correr el programa sin problemas. Para probar el script, puedes usar las imágenes del directorio 'imgs_prueba' o utilizar algunas propias.
 
 <!-- -->
 ---
@@ -42,7 +42,7 @@ Once you have everything installed and ready to use, don't forget to modify the 
 
 # Step 4:
 ### Test the program.
-At this point, you should be able to run the program without any issues. To test the script, you can use the images from the img_prueba directory or use your own images.
+At this point, you should be able to run the program without any issues. To test the script, you can use the images from the 'imgs_prueba' directory or use your own images.
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.linkedin.com/in/octavio-ismael-fernandez/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
